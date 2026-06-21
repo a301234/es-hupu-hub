@@ -1,2 +1,14 @@
 # es-hupu-hub
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
